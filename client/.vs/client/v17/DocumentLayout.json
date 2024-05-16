@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bg050\\source\\repos\\client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{221BC55A-4D7E-4340-9D75-7D464E9F54B6}|client\\client.vcxproj|C:\\Users\\bg050\\Downloads\\SingleTCPClient.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SingleTCPClient.cpp",
+              "DocumentMoniker": "C:\\Users\\bg050\\Downloads\\SingleTCPClient.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\SingleTCPClient.cpp",
+              "ToolTip": "C:\\Users\\bg050\\Downloads\\SingleTCPClient.cpp",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\SingleTCPClient.cpp",
+              "ViewState": "AQIAADEAAAAAAAAAAAAwwDQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-09T05:04:16.856Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
